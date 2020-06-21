@@ -159,7 +159,7 @@ This blog post has been created for completing the requirements of the SecurityT
 
 }
     # printing if no Creds was Found 
-    if(!$flag)
+    if($flag  -eq $false)
     {
         Write-Host -ForegroundColor Red "Failed to Find Creds !!"
     }
