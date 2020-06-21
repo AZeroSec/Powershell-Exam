@@ -26,7 +26,7 @@ https://github.com/rapid7/metasploit-framework/blob/master/modules/post/windows/
 
 Student ID : NONE
 This blog post has been created for completing the requirements of the SecurityTube PowerShell for Penetration Testers Certification Exam: http://www.securitytube-training.com/onlinecourses/powershell-for-pentesters/
-
+the code was written by @HarmJ0y in powerUp project and been copied from powersploit repo https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1
 
 #> 
 
